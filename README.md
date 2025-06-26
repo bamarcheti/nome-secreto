@@ -1,4 +1,4 @@
-# **Amigo Secreto com JavaScript**
+# **🎁 Amigo Secreto com JavaScript**
 
 > Este é um projeto interativo em JavaScript que simula a brincadeira de **Amigo Secreto**. O usuário pode adicionar nomes de participantes, visualizar a lista e realizar o sorteio, onde cada pessoa é vinculada secretamente a outra, formando pares únicos.
 
